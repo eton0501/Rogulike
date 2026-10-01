@@ -8319,7 +8319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5852757235566511578, guid: 7a7eeeea2db033d488d768cc524ac0b2, type: 3}
       propertyPath: nextLevel
-      value: Level 2
+      value: VictoryScene
       objectReference: {fileID: 0}
     - target: {fileID: 6615935475640848647, guid: 7a7eeeea2db033d488d768cc524ac0b2, type: 3}
       propertyPath: m_Name
@@ -9206,7 +9206,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8578508634087553848, guid: 6c11abcdfab20b24d80f0c036a3de0c4, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

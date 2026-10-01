@@ -5829,6 +5829,7 @@ MonoBehaviour:
   mainCamera: {fileID: 519420031}
   bigMapCamera: {fileID: 932351433}
   bigMapActive: 0
+  isBossRoom: 0
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -7922,7 +7923,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5852757235566511578, guid: 7a7eeeea2db033d488d768cc524ac0b2, type: 3}
       propertyPath: nextLevel
-      value: Level 2
+      value: Level 1
       objectReference: {fileID: 0}
     - target: {fileID: 6615935475640848647, guid: 7a7eeeea2db033d488d768cc524ac0b2, type: 3}
       propertyPath: m_Name
@@ -9234,6 +9235,7 @@ MonoBehaviour:
   bigMapText: {fileID: 996332487}
   gunImage: {fileID: 375863759}
   gunText: {fileID: 1918015299}
+  bossHealthBar: {fileID: 0}
 --- !u!114 &6524248215161784215 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3303369743016295476, guid: f634ca2cad810f9468038dc3b00be62e, type: 3}
